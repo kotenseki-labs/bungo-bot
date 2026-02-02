@@ -1,4 +1,4 @@
-# 📄 [Click here to try using BungoBot
+# 📄 Click on the link below to start using BungoBot
 
 https://gemini.google.com/gem/d807a82ae779
 
