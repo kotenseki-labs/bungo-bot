@@ -14,8 +14,8 @@ This project implements the pedagogical framework described in the white paper *
 
 ## 📂 Repository Structure
 
-* `system_prompt.xml` - **The Core File.** Copy the contents of this file into your AI instructions. [COMING SOON]
-* `whitepaper.pdf` - "What LLMs Must Forget" Background on the pedagogical design.
+* `system_prompt.xml` - **The Core File.** Copy the contents of this file into your AI instructions. (COMING SOON!)
+* `What_LLMs_Need.pdf` - Background on the pedagogical design.
 * `examples/` - Sample conversations showing the tutor in action.
 
 ## 🚀 How to Use (Gemini Gems)
