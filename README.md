@@ -20,7 +20,7 @@ This project implements the pedagogical framework described in the white paper *
 
 ## 🚀 How to Use (Gemini Gems)
 
-**Click on the link in ['Gem.md'](Gem.md)**
+**Click on the link in the file [Gem.md](Gem.md)**
 
 ## 🚀 How to Fork (Gemini Gems)
 
