@@ -20,6 +20,10 @@ This project implements the pedagogical framework described in the white paper *
 
 ## 🚀 How to Use (Gemini Gems)
 
+**Click on the link in ['Gem.md'](Gem.md)**
+
+## 🚀 How to Fork (Gemini Gems)
+
 You do not need to install Python or run any code. Follow these steps to create your own tutor:
 
 1.  **Open Gemini:** Go to [gemini.google.com](https://gemini.google.com).
