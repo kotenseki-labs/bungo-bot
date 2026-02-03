@@ -45,6 +45,18 @@ The prompt is written in natural language wrapped in XML tags. You can modify th
 * **Changing Tone:** Look for the `<persona>` tag.
     * You can add instructions like "Be strict but encouraging" or "Use simple modern Japanese for explanations."
 
+## 🤝 How to Contribute
+
+We use GitHub to version-control the system prompt of BungoBot. Here is how you can help:
+
+* **Fork & Clone:** Fork this repo and create a new branch for your feature or fix.
+* **Edit Instructions:** Make changes to the system prompt in `system_prompt.xml`
+* **Test Locally:** Copy the system prompt from `system_prompt.xml` into your own [Gemini Gem](https://gemini.google.com/gems) and test intesively to verify the tutor behaves as expected and doesn't crash.
+* **Submit a PR:** Push your changes and open a Pull Request. Please include:
+    * **The Change:** What specific instructions or features did you add/remove?
+    * **The "Why":** Did the tutor performance improve? How?
+    * **Example Output:** (Optional) A screenshot or text snippet of the tutor's response using the new system prompt.
+
 ## 📄 License
 
 This project is licensed under the **GNU General Public License v3.0** - see the [LICENSE](LICENSE) file for details. This ensures the project remains free and open for all students and scholars. Any modifications or derivative versions that you distribute must also be open source.
