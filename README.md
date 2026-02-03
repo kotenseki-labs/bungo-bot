@@ -4,7 +4,7 @@ AI Tutor for Premodern Japanese
 **A System Prompt for creating AI Tutors for Premodern Japanese.**
 
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
-[![Gemini Gem Ready](https://img.shields.io/badge/Gemini_Gem-Ready-blue.svg)](https://gemini.google.com/)
+[![Gemini Gem Ready](https://img.shields.io/badge/Gemini_Gem-Ready-blue.svg)](https://gemini.google.com/gem/d807a82ae779)
 
 ## 📖 Overview
 
