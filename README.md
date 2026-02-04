@@ -51,7 +51,7 @@ We use GitHub to version-control the system prompt of BungoBot. Here is how you 
 
 * **Fork & Clone:** Fork this repo and create a new branch for your feature or fix.
 * **Edit Instructions:** Make changes to the system prompt in `system_prompt.xml`
-* **Test Locally:** Copy the system prompt from `system_prompt.xml` into your own [Gemini Gem](https://gemini.google.com/gems) and test intesively to verify the tutor behaves as expected and doesn't crash.
+* **Test Locally:** Copy the system prompt from `system_prompt.xml` into your own [Gemini Gem](https://gemini.google.com) and test intesively to verify the tutor behaves as expected and doesn't crash.
 * **Submit a PR:** Push your changes and open a Pull Request. Please include:
     * **The Change:** What specific instructions or features did you add/remove?
     * **The "Why":** Did the tutor performance improve? How?
